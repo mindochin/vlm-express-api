@@ -1,0 +1,5 @@
+{
+  "port": 80,
+  "mongoUri": "mongodb://192.168.0.119/apitest",
+  "jwtSecret": "errrrvusy589e"
+}
